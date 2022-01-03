@@ -30,7 +30,7 @@ header {
   text-transform: uppercase;
   text-shadow: 2px 4px 8px black;
   display: inline-block;
-  transition: 1s ease-in-out;
+  transition: 0.5s ease-in-out;
 }
 
 header ul {
